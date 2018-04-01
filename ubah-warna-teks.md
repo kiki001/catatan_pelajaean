@@ -1,10 +1,8 @@
-# Hapus Elemen HTML
+# Ubah Warna Teks
 
 Soal :
 
-1. Hapus elemen h1 Anda.
-2. Tinggalkan elemen h2 Anda di halaman.
-3. Biarkan elemen p Anda aktif
+Ubah gaya elemen h2 Anda sehingga warna teksnya berwarna merah.
 
 ```
 <h1>Hello World</h1>
@@ -17,7 +15,7 @@ Soal :
 Jawaban :
 
 ```
-<h2>CatPhotoApp</h2>
+<h2 style="color:red">CatPhotoApp</h2>
 
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
