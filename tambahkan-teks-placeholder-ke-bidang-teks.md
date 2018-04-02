@@ -16,7 +16,7 @@ Soal :
 2. Setel nilai atribut placeholder Anda ke "cat photo URL".
 3. Elemen masukan yang sudah jadi harus memiliki sintaks yang valid.
 
-```
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -68,7 +68,7 @@ Soal :
 
 Jawaban :
 
-```
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
