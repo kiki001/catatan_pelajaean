@@ -18,4 +18,5 @@
   * [Tentukan Bagaimana Font Harus Degradasi](tentukan-bagaimana-font-harus-degradasi.md)
   * [Tambahkan Gambar ke Situs Web Anda](tambahkan-gambar-ke-situs-web-anda.md)
   * [Ukur Gambar Anda](ukur-gambar-anda.md)
+  * [Tambahkan Perbatasan di Sekitar Elemen Anda](tambahkan-perbatasan-di-sekitar-elemen-anda.md)
 
