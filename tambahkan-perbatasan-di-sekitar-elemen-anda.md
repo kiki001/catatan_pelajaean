@@ -68,7 +68,6 @@ Perbatasan di sekitar elemen img Anda harus berwarna hijau.
 Jawaban :
 
 ```
-
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -87,12 +86,12 @@ Jawaban :
   .smaller-image {
     width: 100px;
   }
-  
+
   .thick-green-border{
     border-color: green;
     border-width: 10px;
     border-style: solid;
-    
+
   }
 </style>
 
@@ -102,7 +101,6 @@ Jawaban :
 
 <p class="red-text">Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 <p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
-
 ```
 
 
