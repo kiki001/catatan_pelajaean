@@ -78,8 +78,7 @@ Soal :
 
 Jawaban :
 
-```
-
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -139,7 +138,6 @@ Jawaban :
   <input type="text" placeholder="cat photo URL" required>
   <button type="submit">Submit</button>
 </form>
-
 ```
 
 
