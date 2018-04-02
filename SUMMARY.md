@@ -33,4 +33,5 @@
   * [Tambahkan Tombol Kirim ke Form](tambahkan-tombol-kirim-ke-form.md)
   * [Gunakan HTML5 untuk Memerlukan Lapangan](gunakan-html5-untuk-memerlukan-lapangan.md)
   * [Buat Kumpulan Tombol Radio](buat-kumpulan-tombol-radio.md)
+  * [Buat Set Kotak Centang \( Checkboxes \)](buat-set-kotak-centang-checkboxes.md)
 
