@@ -15,4 +15,5 @@
   * [Ubah Ukuran Font dari Elemen](ubah-ukuran-font-dari-elemen.md)
   * [Tentukan Keluarga Font dari Elemen](tentukan-keluarga-font-dari-elemen.md)
   * [Impor Google Font](impor-google-font.md)
+  * [Tentukan Bagaimana Font Harus Degradasi](tentukan-bagaimana-font-harus-degradasi.md)
 

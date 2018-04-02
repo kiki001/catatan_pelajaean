@@ -16,7 +16,10 @@ Sekarang Anda dapat mengatur Lobster sebagai nilai font-family pada elemen h2 An
 
 Soal :
 
-Terapkan font-family of Lobster ke elemen h2 Anda.
+1. Terapkan font-family of Lobster ke elemen h2 Anda.
+2. Impor font Lobster. 
+3. Elemen h2 Anda harus menggunakan font Lobster. 
+4. Elemen p Anda harus tetap menggunakan font Monospace.
 
 ```
 <style>
