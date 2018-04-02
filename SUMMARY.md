@@ -26,4 +26,5 @@
   * [Buat Dead Links menggunakan Hash Symbol](buat-dead-links-menggunakan-hash-symbol.md)
   * [Ubah Gambar menjadi Tautan](ubah-gambar-menjadi-tautan.md)
   * [Buat Daftar Tidak Terurut Bulleted](buat-daftar-tidak-terurut-bulleted.md)
+  * [Buat Daftar Terurut](buat-daftar-terurut.md)
 
