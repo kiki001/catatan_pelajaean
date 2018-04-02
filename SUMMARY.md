@@ -24,4 +24,5 @@
   * [Tautan ke Halaman Eksternal dengan Elemen Anchor](tautan-ke-halaman-eksternal-dengan-elemen-anchor.md)
   * [Sarang Unsur Jangkar dalam Paragraf](sarang-unsur-jangkar-dalam-paragraf.md)
   * [Buat Dead Links menggunakan Hash Symbol](buat-dead-links-menggunakan-hash-symbol.md)
+  * [Ubah Gambar menjadi Tautan](ubah-gambar-menjadi-tautan.md)
 
