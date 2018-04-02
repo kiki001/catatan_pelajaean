@@ -34,4 +34,5 @@
   * [Gunakan HTML5 untuk Memerlukan Lapangan](gunakan-html5-untuk-memerlukan-lapangan.md)
   * [Buat Kumpulan Tombol Radio](buat-kumpulan-tombol-radio.md)
   * [Buat Set Kotak Centang \( Checkboxes \)](buat-set-kotak-centang-checkboxes.md)
+  * [Periksa Radio Buttons dan Checkboxes secara Default](periksa-radio-buttons-dan-checkboxes-secara-default.md)
 
