@@ -8,7 +8,7 @@ Berikut diagram elemen. Dalam hal ini, elemen digunakan di tengah elemen paragra
 
 Inilah contohnya :
 
-```
+```css
 <p>Ini adalah <a href="http://freecodecamp.org">tautan ke Free Code Camp </a>untuk Anda ikuti. </p>
 ```
 
@@ -20,7 +20,7 @@ Soal :
 2. Anda memerlukan elemen yang tertaut ke [http://freecatphotoapp.com](http://freecatphotoapp.com)
 3. Pastikan elemen Anda memiliki tag penutup.
 
-```
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -59,7 +59,6 @@ Soal :
 Jawaban :
 
 ```css
-
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -94,9 +93,6 @@ Jawaban :
 <p class="red-text">Kitty ipsum dolor sit amet,<a href="http://freecatphotoapp.com">cat photos</a>
  shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 <p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
-
-
-
 ```
 
 
