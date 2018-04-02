@@ -10,7 +10,7 @@ Semua tombol radio terkait harus memiliki atribut nama yang sama.
 
 Berikut ini contoh tombol radio:
 
-```
+```css
 <label> <input type = "radio" name = "indoor-outdoor"> Dalam ruangan </ label>
 ```
 
@@ -25,7 +25,7 @@ Soal :
 5. Salah satu tombol radio Anda harus memiliki label dalam ruangan.
 6. Salah satu tombol radio Anda harus memiliki label luar.
 
-```
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -79,8 +79,7 @@ Soal :
 
 Jawaban :
 
-```
-
+```css
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -136,7 +135,6 @@ Jawaban :
     <input type="radio" name="indoor-outdoor">outdoor
   </label>
 </form>
-
 ```
 
 
