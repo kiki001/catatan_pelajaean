@@ -19,4 +19,5 @@
   * [Tambahkan Gambar ke Situs Web Anda](tambahkan-gambar-ke-situs-web-anda.md)
   * [Ukur Gambar Anda](ukur-gambar-anda.md)
   * [Tambahkan Perbatasan di Sekitar Elemen Anda](tambahkan-perbatasan-di-sekitar-elemen-anda.md)
+  * [Tambahkan Sudut Bulat dengan Radius Perbatasan](tambahkan-sudut-bulat-dengan-radius-perbatasan.md)
 
