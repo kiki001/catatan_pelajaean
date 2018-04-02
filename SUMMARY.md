@@ -16,4 +16,5 @@
   * [Tentukan Keluarga Font dari Elemen](tentukan-keluarga-font-dari-elemen.md)
   * [Impor Google Font](impor-google-font.md)
   * [Tentukan Bagaimana Font Harus Degradasi](tentukan-bagaimana-font-harus-degradasi.md)
+  * [Tambahkan Gambar ke Situs Web Anda](tambahkan-gambar-ke-situs-web-anda.md)
 
