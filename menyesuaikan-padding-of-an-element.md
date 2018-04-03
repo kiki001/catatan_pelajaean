@@ -1,4 +1,4 @@
-# Menyesuaikan Padding of an Element
+# Menyesuaikan Padding of Element
 
 Contoh :
 

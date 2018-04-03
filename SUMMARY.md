@@ -39,5 +39,6 @@
   * [Berikan Warna Latar ke Elemen Div](berikan-warna-latar-ke-elemen-div.md)
   * [Setel ID Elemen](setel-id-elemen.md)
   * [Gunakan Atribut ID untuk Style an Elemen](gunakan-atribut-id-untuk-style-an-elemen.md)
-  * [Menyesuaikan Padding of an Element](menyesuaikan-padding-of-an-element.md)
+  * [Menyesuaikan Padding of Element](menyesuaikan-padding-of-an-element.md)
+  * [Sesuaikan Marjin Unsur](sesuaikan-marjin-unsur.md)
 
