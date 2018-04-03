@@ -47,4 +47,5 @@
   * [Gunakan Notasi Searah Jarum Jam untuk Menentukan Padding of an Element](gunakan-notasi-searah-jarum-jam-untuk-menentukan-padding-of-an-element.md)
   * [Gunakan Notasi Searah Jarum Jam untuk Menentukan Marjin Unsur](gunakan-notasi-searah-jarum-jam-untuk-menentukan-marjin-unsur.md)
   * [Gaya Elemen Tubuh HTML](gaya-elemen-tubuh-html.md)
+  * [Mewarisi Gaya dari Elemen Tubuh](mewarisi-gaya-dari-elemen-tubuh.md)
 
