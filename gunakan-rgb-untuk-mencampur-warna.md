@@ -35,7 +35,6 @@ Soal :
 Jawaban :
 
 ```css
-
 <style>
   .red-text {
     color: rgb(255, 0, 0);
@@ -58,7 +57,6 @@ Jawaban :
 <h1 class="sienna-text">I am sienna!</h1>
 
 <h1 class="blue-text">I am blue!</h1>
-
 ```
 
 
