@@ -44,4 +44,5 @@
   * [Tambahkan Margin Negatif ke Elemen](tambahkan-margin-negatif-ke-elemen.md)
   * [Tambahkan Padding Berbeda ke Setiap Sisi Elemen](tambahkan-padding-berbeda-ke-setiap-sisi-elemen.md)
   * [Tambahkan Margin yang Berbeda ke Setiap Sisi Elemen](tambahkan-margin-yang-berbeda-ke-setiap-sisi-elemen.md)
+  * [Gunakan Notasi Searah Jarum Jam untuk Menentukan Padding of an Element](gunakan-notasi-searah-jarum-jam-untuk-menentukan-padding-of-an-element.md)
 
