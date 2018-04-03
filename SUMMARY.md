@@ -42,4 +42,5 @@
   * [Menyesuaikan Padding of Element](menyesuaikan-padding-of-an-element.md)
   * [Sesuaikan Marjin Unsur](sesuaikan-marjin-unsur.md)
   * [Tambahkan Margin Negatif ke Elemen](tambahkan-margin-negatif-ke-elemen.md)
+  * [Tambahkan Padding Berbeda ke Setiap Sisi Elemen](tambahkan-padding-berbeda-ke-setiap-sisi-elemen.md)
 
