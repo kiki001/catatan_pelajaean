@@ -56,4 +56,5 @@
   * [Gunakan Kode Hex untuk Warna Spesifik](gunakan-kode-hex-untuk-warna-spesifik.md)
   * [Gunakan Kode Hex untuk Mencampur Warna](gunakan-kode-hex-untuk-mencampur-warna.md)
   * [Gunakan Kode Hex Disingkat](gunakan-kode-hex-disingkat.md)
+  * [Gunakan nilai RGB ke Elemen Warna](gunakan-nilai-rgb-ke-elemen-warna.md)
 
