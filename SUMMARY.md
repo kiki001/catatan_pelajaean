@@ -48,4 +48,5 @@
   * [Gunakan Notasi Searah Jarum Jam untuk Menentukan Marjin Unsur](gunakan-notasi-searah-jarum-jam-untuk-menentukan-marjin-unsur.md)
   * [Gaya Elemen Tubuh HTML](gaya-elemen-tubuh-html.md)
   * [Mewarisi Gaya dari Elemen Tubuh](mewarisi-gaya-dari-elemen-tubuh.md)
+  * [Memprioritaskan Satu Gaya di Atas Gaya Lainnya](memprioritaskan-satu-gaya-di-atas-gaya-lainnya.md)
 
