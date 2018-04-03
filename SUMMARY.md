@@ -52,4 +52,5 @@
   * [Ganti Gaya di CSS](ganti-gaya-di-css.md)
   * [Override/Timpa Deklarasi Kelas dengan Atribut ID Styling](overridetimpa-deklarasi-kelas-dengan-atribut-id-styling.md)
   * [Override/Timpa Deklarasi Kelas dengan Gaya Inline](timpa-deklarasi-kelas-dengan-gaya-inline.md)
+  * [Override/Timpa Semua Gaya Lain dengan menggunakan Important/Penting](overridetimpa-semua-gaya-lain-dengan-menggunakan-importantpenting.md)
 
