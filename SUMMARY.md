@@ -55,4 +55,5 @@
   * [Override/Timpa Semua Gaya Lain dengan menggunakan Important/Penting](overridetimpa-semua-gaya-lain-dengan-menggunakan-importantpenting.md)
   * [Gunakan Kode Hex untuk Warna Spesifik](gunakan-kode-hex-untuk-warna-spesifik.md)
   * [Gunakan Kode Hex untuk Mencampur Warna](gunakan-kode-hex-untuk-mencampur-warna.md)
+  * [Gunakan Kode Hex Disingkat](gunakan-kode-hex-disingkat.md)
 
