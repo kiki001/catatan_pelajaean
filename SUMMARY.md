@@ -49,4 +49,5 @@
   * [Gaya Elemen Tubuh HTML](gaya-elemen-tubuh-html.md)
   * [Mewarisi Gaya dari Elemen Tubuh](mewarisi-gaya-dari-elemen-tubuh.md)
   * [Memprioritaskan Satu Gaya di Atas Gaya Lainnya](memprioritaskan-satu-gaya-di-atas-gaya-lainnya.md)
+  * [Ganti Gaya di CSS](ganti-gaya-di-css.md)
 
