@@ -14,7 +14,7 @@ Soal :
 
 1. Kelas green-box Anda harus memberikan elemen 20px margin.
 
-```
+```css
 <style>
   .injected-text {
     margin-bottom: -25px;
