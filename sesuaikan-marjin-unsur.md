@@ -56,7 +56,6 @@ Soal :
 Jawaban :
 
 ```css
-
 <style>
   .injected-text {
     margin-bottom: -25px;
@@ -74,7 +73,7 @@ Jawaban :
     background-color: yellow;
     padding: 10px;
   }
-  
+
   .red-box {
     background-color: red;
     padding: 20px;
@@ -93,7 +92,6 @@ Jawaban :
   <h5 class="box red-box">padding</h5>
   <h5 class="box green-box">padding</h5>
 </div>
-
 ```
 
 
