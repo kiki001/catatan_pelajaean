@@ -58,4 +58,36 @@
   * [Gunakan Kode Hex Disingkat](gunakan-kode-hex-disingkat.md)
   * [Gunakan nilai RGB ke Elemen Warna](gunakan-nilai-rgb-ke-elemen-warna.md)
   * [Gunakan RGB untuk Mencampur Warna](gunakan-rgb-untuk-mencampur-warna.md)
+* [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
+  * [Gunakan Desain Responsif dengan Bootstrap Fluid Containers](responsive-design-with-bootstrap/gunakan-desain-responsif-dengan-bootstrap-fluid-containers.md)
+  * Buat Gambar Seluler Responsif
+  * Teks Tengah dengan Bootstrap
+  * Buat Tombol Bootstrap
+  * Buat Tombol Bootstrap Elemen Blok
+  * Rasakan Tombol Bootstrap Warna Pelangi
+  * Hubungi Tindakan Opsional dengan Info Tombol
+  * Peringatkan Pengguna Anda tentang Tindakan Berbahaya
+  * Gunakan Bootstrap Grid untuk Menempatkan Elemen Berdampingan
+  * Ditch Custom CSS untuk Bootstrap
+  * Gunakan Rentang untuk Elemen Inline
+  * [Buat Tajuk Kustom/Create a Custom Heading](responsive-design-with-bootstrap/buat-tajuk-kustom.md)
+  * Tambahkan Font Ikon Keren ke Tombol
+  * Tambahkan Font Ikon Keren ke semua Tombol
+  * Tombol Radio Gaya Responsif
+  * Kotak centang Gaya Responsif
+  * Gaya Input Teks sebagai Kontrol Form
+  * Line up Form Elemen Secara Bertahan dengan Bootstrap
+  * Buat Headline Bootstrap
+  * Tempatkan halaman di dalam Div Fluid Bootstrap Container
+  * Buat Baris Bootstrap
+  * Bagi Baris Bootstrap Anda
+  * Buat Bootstrap Wells
+  * Tambahkan Elemen di dalam Bootstrap Wells Anda
+  * Terapkan Gaya Tombol Bootstrap Default
+  * Buat Kelas untuk Target dengan pemilih jQuery
+  * Tambahkan Atribut ID ke Elemen Bootstrap
+  * Label Bootstrap Wells
+  * Berikan Setiap Elemen ID Unik
+  * Label Bootstrap Buttons
+  * Gunakan Komentar untuk Klarifikasi Kode
 
