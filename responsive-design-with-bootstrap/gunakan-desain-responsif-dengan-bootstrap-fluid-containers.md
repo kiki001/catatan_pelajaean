@@ -1,5 +1,7 @@
 # Gunakan Desain Responsif dengan Bootstrap Fluid Containers
 
+Contoh :
+
 Di bagian HTML5 dan CSS dari FreeCodeCamp kami membangun Aplikasi Foto Kucing. Sekarang mari kita kembali ke sana. Kali ini, kita akan gaya menggunakan kerangka CSS responsif Bootstrap populer.
 
 Bootstrap akan mencari tahu seberapa lebar layar Anda dan merespons dengan mengubah ukuran elemen HTML Anda - maka nama Desain Responsif.

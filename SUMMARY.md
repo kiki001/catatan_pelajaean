@@ -60,7 +60,7 @@
   * [Gunakan RGB untuk Mencampur Warna](gunakan-rgb-untuk-mencampur-warna.md)
 * [Responsive Design with Bootstrap](responsive-design-with-bootstrap.md)
   * [Gunakan Desain Responsif dengan Bootstrap Fluid Containers](responsive-design-with-bootstrap/gunakan-desain-responsif-dengan-bootstrap-fluid-containers.md)
-  * Buat Gambar Seluler Responsif
+  * [Buat Gambar Seluler Responsif](responsive-design-with-bootstrap/buat-gambar-seluler-responsif.md)
   * Teks Tengah dengan Bootstrap
   * Buat Tombol Bootstrap
   * Buat Tombol Bootstrap Elemen Blok
