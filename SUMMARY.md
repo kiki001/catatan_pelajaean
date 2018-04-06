@@ -62,8 +62,8 @@
   * [Gunakan Desain Responsif dengan Bootstrap Fluid Containers](responsive-design-with-bootstrap/gunakan-desain-responsif-dengan-bootstrap-fluid-containers.md)
   * [Buat Gambar Seluler Responsif](responsive-design-with-bootstrap/buat-gambar-seluler-responsif.md)
   * [Teks Tengah dengan Bootstrap](responsive-design-with-bootstrap/teks-tengah-dengan-bootstrap.md)
-  * Buat Tombol Bootstrap
-  * Buat Tombol Bootstrap Elemen Blok
+  * [Buat Tombol Bootstrap](responsive-design-with-bootstrap/buat-tombol-bootstrap.md)
+  * [Buat Tombol Bootstrap Elemen Blok](responsive-design-with-bootstrap/buat-tombol-bootstrap-elemen-blok.md)
   * Rasakan Tombol Bootstrap Warna Pelangi
   * Hubungi Tindakan Opsional dengan Info Tombol
   * Peringatkan Pengguna Anda tentang Tindakan Berbahaya
