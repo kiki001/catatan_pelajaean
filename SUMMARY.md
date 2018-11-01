@@ -108,4 +108,6 @@
   * [Gunakan Properti Steno yang fleksibel](css-flexbox/gunakan-properti-steno-yang-fleksibel.md)
   * [Gunakan pesanan Properti untuk Mengatur Ulang Item](css-flexbox/gunakan-pesanan-properti-untuk-mengatur-ulang-item.md)
   * [Gunakan Properti yang sejajar](css-flexbox/gunakan-properti-yang-sejajar.md)
+* [CSS Grid](css-grid.md)
+  * [Buat Grid CSS Pertama Anda](css-grid/buat-grid-css-pertama-anda.md)
 
