@@ -107,4 +107,5 @@
   * [Gunakan Properti flex-basis untuk Mengatur Ukuran Awal Item](css-flexbox/gunakan-properti-flex-basis-untuk-mengatur-ukuran-awal-item.md)
   * [Gunakan Properti Steno yang fleksibel](css-flexbox/gunakan-properti-steno-yang-fleksibel.md)
   * [Gunakan pesanan Properti untuk Mengatur Ulang Item](css-flexbox/gunakan-pesanan-properti-untuk-mengatur-ulang-item.md)
+  * [Gunakan Properti yang sejajar](css-flexbox/gunakan-properti-yang-sejajar.md)
 
