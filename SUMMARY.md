@@ -97,4 +97,5 @@
   * [Menerapkan Properti arah-fleksibel untuk Membuat Baris di Tweet Embed](css-flexbox/menerapkan-properti-arah-fleksibel-untuk-membuat-baris-di-tweet-embed.md)
   * [Gunakan Properti arah-fleksibel untuk Membuat Kolom](css-flexbox/gunakan-properti-arah-fleksibel-untuk-membuat-kolom.md)
   * [Terapkan Properti flex-direction untuk Membuat Kolom di Tweet Embed](css-flexbox/terapkan-properti-flex-direction-untuk-membuat-kolom-di-tweet-embed.md)
+  * [Align Elements Menggunakan Properti justify-content](css-flexbox/align-elements-menggunakan-properti-justify-content.md)
 
