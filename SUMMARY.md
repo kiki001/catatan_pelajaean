@@ -102,4 +102,5 @@
   * [Align Elements Menggunakan Properti align-items](css-flexbox/align-elements-menggunakan-properti-align-items.md)
   * [Gunakan Properti align-items di Tweet Embed](css-flexbox/gunakan-properti-align-items-di-tweet-embed.md)
   * [Gunakan Properti flex-wrap untuk Membungkus Row atau Kolom](css-flexbox/gunakan-properti-flex-wrap-untuk-membungkus-row-atau-kolom.md)
+  * [Gunakan Properti rileks-menyusutkan ke Shrink Items](css-flexbox/a.md)
 
