@@ -112,4 +112,5 @@
   * [Buat Grid CSS Pertama Anda](css-grid/buat-grid-css-pertama-anda.md)
   * [ambahkan Kolom dengan grid-template-kolom](css-grid/ambahkan-kolom-dengan-grid-template-kolom.md)
   * [Tambahkan Baris dengan baris-template-grid](css-grid/tambahkan-baris-dengan-baris-template-grid.md)
+  * [Gunakan unit Grid CSS untuk Mengubah Ukuran Kolom dan Baris](css-grid/gunakan-unit-grid-css-untuk-mengubah-ukuran-kolom-dan-baris.md)
 
