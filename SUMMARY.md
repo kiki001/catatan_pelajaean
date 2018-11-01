@@ -94,4 +94,5 @@
   * [Gunakan display: flex to Position Two Boxes](css-flexbox/gunakan-display-flex-to-position-two-boxes.md)
   * [Tambahkan Kekuatan Super Flex ke Tweet Embed](css-flexbox/tambahkan-kekuatan-super-flex-ke-tweet-embed.md)
   * [Gunakan Properti lentur-arah untuk Membuat Row](css-flexbox/gunakan-properti-lentur-arah-untuk-membuat-row.md)
+  * [Menerapkan Properti arah-fleksibel untuk Membuat Baris di Tweet Embed](css-flexbox/menerapkan-properti-arah-fleksibel-untuk-membuat-baris-di-tweet-embed.md)
 
