@@ -116,4 +116,5 @@
   * [Buat Gap Kolom Menggunakan grid-kolom-gap](css-grid/buat-gap-kolom-menggunakan-grid-kolom-gap.md)
 * [Basic JavaScript](basic-javascript.md)
   * [Testing Objects for Properties](basic-javascript/testing-objects-for-properties.md)
+  * [Manipulating Complex Objects](basic-javascript/manipulating-complex-objects.md)
 
