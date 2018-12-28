@@ -123,4 +123,5 @@
   * [Iterate with JavaScript While Loops](basic-javascript/iterate-with-javascript-while-loops.md)
   * [Iterate with JavaScript For Loops](basic-javascript/iterate-with-javascript-for-loops.md)
   * [Iterate Odd Numbers With a For Loop](basic-javascript/iterate-odd-numbers-with-a-for-loop.md)
+  * [Count Backwards With a For Loop](basic-javascript/count-backwards-with-a-for-loop.md)
 
