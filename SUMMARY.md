@@ -114,4 +114,6 @@
   * [Tambahkan Baris dengan baris-template-grid](css-grid/tambahkan-baris-dengan-baris-template-grid.md)
   * [Gunakan unit Grid CSS untuk Mengubah Ukuran Kolom dan Baris](css-grid/gunakan-unit-grid-css-untuk-mengubah-ukuran-kolom-dan-baris.md)
   * [Buat Gap Kolom Menggunakan grid-kolom-gap](css-grid/buat-gap-kolom-menggunakan-grid-kolom-gap.md)
+* [Basic JavaScript](basic-javascript.md)
+  * [Testing Objects for Properties](basic-javascript/testing-objects-for-properties.md)
 
