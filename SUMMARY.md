@@ -118,4 +118,5 @@
   * [Testing Objects for Properties](basic-javascript/testing-objects-for-properties.md)
   * [Manipulating Complex Objects](basic-javascript/manipulating-complex-objects.md)
   * [Accessing Nested Objects](basic-javascript/accessing-nested-objects.md)
+  * [Accessing Nested Arrays](basic-javascript/accessing-nested-arrays.md)
 
