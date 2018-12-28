@@ -121,4 +121,5 @@
   * [Accessing Nested Arrays](basic-javascript/accessing-nested-arrays.md)
   * [Record Collection](basic-javascript/record-collection.md)
   * [Iterate with JavaScript While Loops](basic-javascript/iterate-with-javascript-while-loops.md)
+  * [Iterate with JavaScript For Loops](basic-javascript/iterate-with-javascript-for-loops.md)
 
