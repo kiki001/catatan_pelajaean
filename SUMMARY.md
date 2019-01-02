@@ -128,4 +128,5 @@
   * [Nesting For Loops](basic-javascript/nesting-for-loops.md)
   * [Iterate with JavaScript Do...While Loops](basic-javascript/iterate-with-javascript-dowhile-loops.md)
   * [Profile Lookup](basic-javascript/profile-lookup.md)
+  * [Generate Random Fractions with JavaScript](basic-javascript/generate-random-fractions-with-javascript.md)
 
