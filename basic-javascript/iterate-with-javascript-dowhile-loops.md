@@ -39,7 +39,6 @@ do {
 } while (i <5);
 ```
 
-  
 Dalam hal ini, kami menginisialisasi nilai`i`sebagai 5, seperti yang kami lakukan dengan loop sementara.Ketika kita sampai ke baris berikutnya, tidak ada pemeriksaan untuk nilai`i`, jadi kita pergi ke kode di dalam kurung kurawal dan menjalankannya.Kami akan menambahkan satu elemen ke array dan kenaikan`i`sebelum kita sampai ke pemeriksaan kondisi.Kemudian, ketika kita mulai memeriksa jika`i < 5`melihat bahwa`i`sekarang 6, yang gagal memeriksa bersyarat.Jadi kita keluar dari loop dan selesai.Pada akhir contoh di atas, nilai`ourArray`is`[5]`.
 
 Pada dasarnya, sebuah`do...while`loop memastikan bahwa kode di dalam loop akan berjalan setidaknya satu kali.
@@ -47,8 +46,6 @@ Pada dasarnya, sebuah`do...while`loop memastikan bahwa kode di dalam loop akan b
 Mari kita coba membuat`do...while`perulangan bekerja dengan mendorong nilai ke array.
 
 Ubah`while`loop dalam kode menjadi`do...while`loop sehingga loop akan mendorong angka 10 ke`myArray`, dan`i`akan sama dengan`11`ketika kode Anda selesai berjalan.
-
-
 
 Soal :
 
@@ -69,8 +66,6 @@ do {
   i++;
 } while (i < 11)
 ```
-
-
 
 
 
