@@ -130,4 +130,5 @@
   * [Profile Lookup](basic-javascript/profile-lookup.md)
   * [Generate Random Fractions with JavaScript](basic-javascript/generate-random-fractions-with-javascript.md)
   * [Generate Random Whole Numbers with JavaScript](basic-javascript/generate-random-whole-numbers-with-javascript.md)
+  * [Generate Random Whole Numbers within a Range](basic-javascript/generate-random-whole-numbers-within-a-range.md)
 
