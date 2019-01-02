@@ -125,4 +125,5 @@
   * [Iterate Odd Numbers With a For Loop](basic-javascript/iterate-odd-numbers-with-a-for-loop.md)
   * [Count Backwards With a For Loop](basic-javascript/count-backwards-with-a-for-loop.md)
   * [Iterate Through an Array with a For Loop](basic-javascript/iterate-through-an-array-with-a-for-loop.md)
+  * [Nesting For Loops](basic-javascript/nesting-for-loops.md)
 
