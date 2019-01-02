@@ -133,4 +133,5 @@
   * [Generate Random Whole Numbers within a Range](basic-javascript/generate-random-whole-numbers-within-a-range.md)
   * [Use the parseInt Function](basic-javascript/use-the-parseint-function.md)
   * [Use the parseInt Function with a Radix](basic-javascript/use-the-parseint-function-with-a-radix.md)
+  * [Use the Conditional \(Ternary\) Operator](basic-javascript/use-the-conditional-ternary-operator.md)
 
