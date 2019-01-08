@@ -135,4 +135,5 @@
   * [Use the parseInt Function with a Radix](basic-javascript/use-the-parseint-function-with-a-radix.md)
   * [Use the Conditional \(Ternary\) Operator](basic-javascript/use-the-conditional-ternary-operator.md)
   * [Use Multiple Conditional \(Ternary\) Operators](basic-javascript/use-multiple-conditional-ternary-operators.md)
+  * [JavaScript: Stand in Line](basic-javascript/javascript-stand-in-line.md)
 
