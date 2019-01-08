@@ -16,8 +16,6 @@ Fungsi Anda akan diteruskan`par`dan`strokes`argumen.Kembalikan string yang benar
 
 `par`dan`strokes`akan selalu berupa angka dan positif.Kami telah menambahkan larik semua nama untuk kenyamanan Anda.
 
-
-
 Soal :
 
 1. golfScore\(4, 1\) harus mengembalikan "Hole-in-one!"
@@ -66,5 +64,5 @@ function golfScore(par, strokes) {
 golfScore(5, 4);
 ```
 
-
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
