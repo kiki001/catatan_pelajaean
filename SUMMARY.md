@@ -147,4 +147,5 @@
   * [Decrement a Number with JavaScript](basic-javascript/decrement-a-number-with-javascript.md)
   * [Create Decimal Numbers with JavaScript](basic-javascript/create-decimal-numbers-with-javascript.md)
   * [Multiply Two Decimals with JavaScript](basic-javascript/multiply-two-decimals-with-javascript.md)
+  * [Divide One Decimal by Another with JavaScript](basic-javascript/divide-one-decimal-by-another-with-javascript.md)
 
