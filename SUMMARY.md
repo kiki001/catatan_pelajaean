@@ -146,4 +146,5 @@
   * [Increment a Number with JavaScript](basic-javascript/increment-a-number-with-javascript.md)
   * [Decrement a Number with JavaScript](basic-javascript/decrement-a-number-with-javascript.md)
   * [Create Decimal Numbers with JavaScript](basic-javascript/create-decimal-numbers-with-javascript.md)
+  * [Multiply Two Decimals with JavaScript](basic-javascript/multiply-two-decimals-with-javascript.md)
 
