@@ -13,8 +13,6 @@ Seluruh baris menjadi`i--;`, menghilangkan kebutuhan untuk tanda sama dengan.
 
 Ubah kode untuk menggunakan`--`operator`myVar`.
 
-
-
 Soal :
 
 1. myVar harus sama 10
