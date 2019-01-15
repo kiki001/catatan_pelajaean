@@ -140,4 +140,5 @@
   * [Selecting from Many Options with Switch Statements](basic-javascript/selecting-from-many-options-with-switch-statements.md)
   * [Comment Your JavaScript Code](basic-javascript/comment-your-javascript-code.md)
   * [Declare JavaScript Variables](basic-javascript/declare-javascript-variables.md)
+  * [Storing Values with the Assignment Operator](basic-javascript/storing-values-with-the-assignment-operator.md)
 
