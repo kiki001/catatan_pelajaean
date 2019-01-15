@@ -139,4 +139,5 @@
   * [Golf Code](basic-javascript/golf-code.md)
   * [Selecting from Many Options with Switch Statements](basic-javascript/selecting-from-many-options-with-switch-statements.md)
   * [Comment Your JavaScript Code](basic-javascript/comment-your-javascript-code.md)
+  * [Declare JavaScript Variables](basic-javascript/declare-javascript-variables.md)
 
