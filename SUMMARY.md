@@ -144,4 +144,5 @@
   * [Understanding Uninitialized Variables](basic-javascript/understanding-uninitialized-variables.md)
   * [Understanding Case Sensitivity in Variables](basic-javascript/understanding-case-sensitivity-in-variables.md)
   * [Increment a Number with JavaScript](basic-javascript/increment-a-number-with-javascript.md)
+  * [Decrement a Number with JavaScript](basic-javascript/decrement-a-number-with-javascript.md)
 
