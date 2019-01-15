@@ -148,4 +148,5 @@
   * [Create Decimal Numbers with JavaScript](basic-javascript/create-decimal-numbers-with-javascript.md)
   * [Multiply Two Decimals with JavaScript](basic-javascript/multiply-two-decimals-with-javascript.md)
   * [Divide One Decimal by Another with JavaScript](basic-javascript/divide-one-decimal-by-another-with-javascript.md)
+  * [Compound Assignment With Augmented Addition](basic-javascript/compound-assignment-with-augmented-addition.md)
 
