@@ -143,4 +143,5 @@
   * [Storing Values with the Assignment Operator](basic-javascript/storing-values-with-the-assignment-operator.md)
   * [Understanding Uninitialized Variables](basic-javascript/understanding-uninitialized-variables.md)
   * [Understanding Case Sensitivity in Variables](basic-javascript/understanding-case-sensitivity-in-variables.md)
+  * [Increment a Number with JavaScript](basic-javascript/increment-a-number-with-javascript.md)
 
